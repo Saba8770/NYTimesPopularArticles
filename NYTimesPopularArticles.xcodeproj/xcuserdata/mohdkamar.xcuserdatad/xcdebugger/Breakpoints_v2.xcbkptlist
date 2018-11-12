@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYTimesPopularArticles/Common/Navbar/NavbarView.swift"
+            timestampString = "563655276.369442"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "NavbarView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesPopularArticles.NavbarView.(navBarTitle in _20E78EBE3D5395ADADC6FDBF1D01DEDC).getter : Swift.ImplicitlyUnwrappedOptional&lt;NYTimesPopularArticles.Label&gt;"
+                  moduleName = "NYTimesPopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohdkamar/Documents/Study/Exam/NYTimesPopularArticles/NYTimesPopularArticles/Common/Navbar/NavbarView.swift"
+                  timestampString = "563636243.159567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesPopularArticles.NavbarView.(navBarTitle in _20E78EBE3D5395ADADC6FDBF1D01DEDC).setter : Swift.ImplicitlyUnwrappedOptional&lt;NYTimesPopularArticles.Label&gt;"
+                  moduleName = "NYTimesPopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohdkamar/Documents/Study/Exam/NYTimesPopularArticles/NYTimesPopularArticles/Common/Navbar/NavbarView.swift"
+                  timestampString = "563636243.162894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesPopularArticles.NavbarView.init(frame: __C.CGRect) -&gt; NYTimesPopularArticles.NavbarView"
+                  moduleName = "NYTimesPopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohdkamar/Documents/Study/Exam/NYTimesPopularArticles/NYTimesPopularArticles/Common/Navbar/NavbarView.swift"
+                  timestampString = "563636243.16616"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesPopularArticles.NavbarView.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;NYTimesPopularArticles.NavbarView&gt;"
+                  moduleName = "NYTimesPopularArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohdkamar/Documents/Study/Exam/NYTimesPopularArticles/NYTimesPopularArticles/Common/Navbar/NavbarView.swift"
+                  timestampString = "563636243.16926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
